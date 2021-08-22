@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.FitR.TextView" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">@font/aller_db</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Body2</item>
+        <item name="android:gravity">bottom|center_horizontal</item>
+        <item name="android:layout_marginBottom">@dimen/menu_height</item>
+    </style>
+</resources>
